@@ -1,0 +1,45 @@
+* {
+    background-color: rgb(185, 225, 225);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    text-align: center;
+    font-size: 200%
+}
+
+h2 {
+    font-size: 200%;
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+p {
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+/*ul,
+ol {
+    list-style-position: inside;
+}
+*/
+li {
+    margin-bottom: 2%;
+}
+
+.margin-text {
+    margin-right: 5%;
+    margin-left: 3%;
+}
+
+.image-format {
+    display: block;
+    width: 40%;
+    height: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
